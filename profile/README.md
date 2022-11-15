@@ -1,4 +1,4 @@
-![Instagram post - 8.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/15B582B6-C78B-4E4A-A425-9BB983CDCEF2/30B9BCCD-B114-4C9A-8D46-BC10E30B33D8_2/oVnjUstGa4k2nWJrydbLGH4q46RzLx7G22PPGxYvYbwz/Instagram%20post%20-%208.png)
+![openswoop.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/15B582B6-C78B-4E4A-A425-9BB983CDCEF2/045E1269-2C8A-41C3-B084-0DB087C27EA7_2/eJiLAODPVsstW1vexLS5JHedDrNVhnh9DAO1tIWBypYz/openswoop.png)
 
 ### We are building open source tech to help the UNF student body, here's our current tech stack...
 
